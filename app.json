@@ -20,7 +20,9 @@
       "package": "br.com.fiap.cityorbit"
     },
     "web": {
-      "bundler": "metro"
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png"
     },
     "platforms": ["ios", "android", "web"]
   }
