@@ -10,11 +10,9 @@ Aplicativo mobile desenvolvido em **React Native + Expo SDK 55 + TypeScript** qu
 
 | Nome | RM |
 |---|---|
-| João Vitor Carotta Ribeiro | RM000000 |
-| Integrante 2 | RM000000 |
-| Integrante 3 | RM000000 |
-| Integrante 4 | RM000000 |
-| Integrante 5 | RM000000 |
+| João Vitor Carotta Ribeiro | RM 555187 |
+| Arthur Bueno de Oliveira | RM 558396 |
+| Victor Magdaleno Marcos | RM 556729 |
 
 ---
 
