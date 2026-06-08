@@ -111,6 +111,11 @@ npm run web       # Navegador web
 
 Ou escaneie o QR Code com o app **Expo Go**.
 
+
+Link do site publicado no Render:
+
+https://cityorbit-mobile.onrender.com/
+
 ---
 
 ## 📦 Principais Dependências
