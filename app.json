@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "CityOrbit",
+    "slug": "cityorbit-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0E1A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.fiap.cityorbit"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0E1A"
+      },
+      "package": "br.com.fiap.cityorbit"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "platforms": ["ios", "android", "web"]
+  }
+}
